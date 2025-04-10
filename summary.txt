@@ -1,0 +1,15 @@
+This will be auto-created and appended to whenever a file is moved.
+**Example Input**
+Let’s say you have the following files in a folder /Users/veda/Desktop/test-files:
+  photo.jpg
+  document.pdf
+  movie.mp4
+  notes.txt
+  random.zip
+**Example Output**
+  Moved "photo.jpg" to "Images/"
+  Moved "document.pdf" to "Documents/"
+  Moved "movie.mp4" to "Videos/"
+  Moved "notes.txt" to "Documents/"
+  Moved "random.zip" to "Others/"
+✅ File organization completed.
