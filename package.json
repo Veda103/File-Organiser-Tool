@@ -1,0 +1,12 @@
+{
+    "name": "file-organizer-tool",
+    "version": "1.0.0",
+    "description": "A CLI tool to organize files by type using Node.js",
+    "main": "organizer.js",
+    "scripts": {
+      "start": "node organizer.js"
+    },
+    "keywords": ["nodejs", "cli", "file-system", "organizer"],
+    "author": "Veda",
+    "license": "MIT"
+  } 
